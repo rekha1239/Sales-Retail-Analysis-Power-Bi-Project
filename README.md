@@ -3,7 +3,7 @@
 
 ![Screenshot 2023-11-09 080049](https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project/assets/143036945/8d4cc6f3-060f-4ed4-aa97-eff3757ddac3)
 
-![Screenshot 2023-11-09 080114](https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project/assets/143036945/70a812d6-5557-47d3-93c2-b6dec618ee34)
+![Screenshot 2023-11-09 080130](https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project/assets/143036945/51fd15e8-8165-4af4-adc5-a8a5adea92bc)
 
 ![Screenshot 2023-11-09 080230](https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project/assets/143036945/c5854215-7be7-4311-ab18-551066d52798)
 
