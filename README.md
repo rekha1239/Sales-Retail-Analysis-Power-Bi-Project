@@ -45,10 +45,12 @@ Filter Propogation
 
 ![Screenshot 2023-11-09 080256](https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project/assets/143036945/2882e7fc-10f4-470c-a76c-b92facc63051)
 
-Tooltip
+    Tooltip
+    
 ![Screenshot 2023-11-09 080337](https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project/assets/143036945/1d6662c8-f3b7-4ae4-8262-368fbca581b7)
 
 Relationship Identity
+
 ![Screenshot 2023-11-09 080404](https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project/assets/143036945/87fb657a-b02d-4c16-97a0-efbbcf5e19fd)
 
 
