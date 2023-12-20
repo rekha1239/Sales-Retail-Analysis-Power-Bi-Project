@@ -1,23 +1,20 @@
 
 ## Retail Analysis Power BI Project
+
 **Objective:**
 Created a detailed report comparing this year's retail performance to the previous year, focusing on sales, units, gross margin and variation.
 **Data Collection:**
 Gathered data from the internet in Excel and CSV formats.
 Cleaned up and organized the data using Power Query Editor.
-
 **ETL Process:**
 Used Power Query Editor to prepare the data for analysis.
 Combined, cleaned, and transformed datasets for better understanding.
-
 **Data Modeling:**
 Built a structure connecting different data pieces for analysis.
 Created special calculations for more meaningful insights.
-
 **Analysis:**
 Looked deep into the data to find trends and important points.
 Checked for connections and key factors influencing sales performance.
-
 **Visualization:**
 Designed an easy-to-use sales report using Power BI.
 Used different charts to show the overall picture of retail performance.
