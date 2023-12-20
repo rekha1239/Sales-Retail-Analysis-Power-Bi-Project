@@ -29,6 +29,7 @@ Added filters so users can focus on specific details.
 Created dashboards for a quick summary and easy access to insights
 Included tooltips and documentation within the report to explain calculated measures and highlight critical observations.
 
+
 **Main Report:**
 ![Screenshot 2023-11-09 080325](https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project/assets/143036945/a7ea629f-837c-4a4c-b394-779bc6546fae)
 
@@ -49,7 +50,8 @@ Included tooltips and documentation within the report to explain calculated meas
 ![Screenshot 2023-11-09 080337](https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project/assets/143036945/1d6662c8-f3b7-4ae4-8262-368fbca581b7)
 
  
- **Entity Relationship Diagram Model:**
+  **Entity Relationship Diagram Model:**
+
  
 ![Screenshot 2023-11-09 080404](https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project/assets/143036945/87fb657a-b02d-4c16-97a0-efbbcf5e19fd)
 
