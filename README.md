@@ -21,8 +21,8 @@ Looked deep into the data to find trends and important points.
 Checked for connections and key factors influencing sales performance.
 
 **Visualization:**
-*Designed an easy-to-use sales report using Power BI.
-*Used different charts to show the overall picture of retail performance.
+Designed an easy-to-use sales report using Power BI.
+Used different charts to show the overall picture of retail performance.
 
 **User Interaction:**
 Added filters so users can focus on specific details.
