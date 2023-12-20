@@ -1,9 +1,7 @@
 
-# Retail Analysis Power BI Project
-
-## Objective:
+## Retail Analysis Power BI Project
+### Objective:
 Created a detailed report comparing this year's retail performance to the previous year, focusing on sales, units, gross margin and variation.
-
 ## Data Collection:
 Gathered data from the internet in Excel and CSV formats.
 Cleaned up and organized the data using Power Query Editor.
