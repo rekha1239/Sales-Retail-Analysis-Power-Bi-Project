@@ -1,4 +1,37 @@
-The retail analysis report presents a dashboard that analyzes product sales data from various retailers across various regions. 
+
+Retail Analysis Power BI Project
+Objective:
+Created a detailed report comparing this year's retail performance to the previous year, focusing on sales, units, gross margin, and variation.
+
+Data Collection:
+
+Gathered data from the internet in Excel and CSV formats.
+Cleaned up and organized the data using Power Query Editor.
+
+ETL Process:
+
+Used Power Query Editor to prepare the data for analysis.
+Combined, cleaned, and transformed datasets for better understanding.
+
+Data Modeling:
+
+Built a structure connecting different data pieces for analysis.
+Created special calculations for more meaningful insights.
+
+Analysis:
+
+Looked deep into the data to find trends and important points.
+Checked for connections and key factors influencing sales performance.
+
+Visualization:
+
+Designed an easy-to-use sales report using Power BI.
+Used different charts to show the overall picture of retail performance.
+
+User Interaction:
+
+Added filters so users can focus on specific details.
+Created dashboards for a quick summary and easy access to insights
 
 ![Screenshot 2023-11-09 080325](https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project/assets/143036945/a7ea629f-837c-4a4c-b394-779bc6546fae)
 
